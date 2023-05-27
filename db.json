@@ -1,11 +1,184 @@
 {
-  "users": [
+  "freelancers": [
     {
-      "userName": "Dharmik",
+      "name": "Jhonny",
+      "pic": "https://i.pinimg.com/474x/b3/f8/a9/b3f8a9ffb414e67cc998f6a5ae244dcd.jpg",
+      "email": "abcd@gmail.com",
+      "password": "1234",
+      "profession": "student",
+      "skills": [
+        "coding",
+        "sleeping",
+        "eating"
+      ],
+      "rate": 150,
+      "isBooked": false,
+      "id": 1
+    },
+    {
+      "name": "Salman",
+      "pic": "https://i.pinimg.com/474x/bd/fb/c8/bdfbc8adb1a4794ab4ceaf863c41828e.jpg",
       "email": "dharmikpuri2004@gmail.com",
       "password": "12345",
-      "id": 1
+      "profession": "webdeveloper",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT"
+      ],
+      "rate": 100,
+      "isBooked": false,
+      "id": 2
+    },
+    {
+      "name": "Jully",
+      "pic": "https://i.pinimg.com/474x/1e/b2/13/1eb2135a6ff4b016b41ea4febe860a15.jpg",
+      "email": "abcd@gmail.com",
+      "password": "12345",
+      "profession": "graphicdesigner",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT"
+      ],
+      "rate": 150,
+      "isBooked": false,
+      "id": 3
+    },
+    {
+      "name": "Katrina",
+      "pic": "https://i.pinimg.com/474x/20/84/22/2084220e18961fba23a26966b3cd95cd.jpg",
+      "email": "dummy11@gmail.com",
+      "password": "123456",
+      "profession": "webdeveloper",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT"
+      ],
+      "rate": 75,
+      "isBooked": false,
+      "id": 4
+    },
+    {
+      "name": "Ajay",
+      "pic": "https://i.pinimg.com/474x/2a/53/e1/2a53e1ed5d1485c4839f23b75d0235c5.jpg",
+      "email": "abcd@gmail.com",
+      "password": "12345",
+      "profession": "student",
+      "skills": [
+        "coding",
+        "sleeping",
+        "eating"
+      ],
+      "rate": 120,
+      "isBooked": false,
+      "id": 5
+    },
+    {
+      "name": "Chunnu",
+      "pic": "https://i.pinimg.com/474x/09/7f/36/097f3661532281d19ab830d9ab50875a.jpg",
+      "email": "abcd@gmail.com",
+      "password": "hfgh",
+      "profession": "webdeveloper",
+      "skills": [
+        "React.js",
+        "Node.js",
+        "MongoDB"
+      ],
+      "rate": 80,
+      "isBooked": false,
+      "id": 6
+    },
+    {
+      "name": "Smile Hasan",
+      "pic": "https://i.pinimg.com/474x/6e/ea/58/6eea5889dd548508e8397f38daec55e7.jpg",
+      "email": "abcd@gmail.com",
+      "password": "gvdfgdf",
+      "profession": "graphicdesigner",
+      "skills": [
+        "CSS3",
+        "HTML5",
+        "TailWindCSS"
+      ],
+      "rate": 50,
+      "isBooked": false,
+      "id": 7
+    },
+    {
+      "name": "Anjalina",
+      "pic": "https://i.pinimg.com/474x/e9/7f/63/e97f6334326510052ce2bd14e5ece79f.jpg",
+      "email": "abcd@gmail.com",
+      "password": "dfhrf",
+      "profession": "webdeveloper",
+      "skills": [
+        "React.js",
+        "Node.js",
+        "MongoDB"
+      ],
+      "rate": 125,
+      "isBooked": false,
+      "id": 8
+    },
+    {
+      "name": "Don",
+      "pic": "https://i.pinimg.com/474x/df/3d/dd/df3dddccd80dec9975adb5d573c278eb.jpg",
+      "email": "abcd@gmail.com",
+      "password": "gsdgds",
+      "profession": "graphicdesigner",
+      "skills": [
+        "CSS3",
+        "HTML5",
+        "TailWindCSS"
+      ],
+      "rate": 125,
+      "isBooked": false,
+      "id": 9
+    },
+    {
+      "name": "Kiara",
+      "pic": "https://i.pinimg.com/474x/61/8b/d1/618bd154b0d3047e0b509f225271eeac.jpg",
+      "email": "abcd@gmail.com",
+      "password": "dfsf",
+      "profession": "student",
+      "skills": [
+        "coding",
+        "sleeping",
+        "eating"
+      ],
+      "rate": 95,
+      "isBooked": false,
+      "id": 10
+    },
+    {
+      "name": "Micky",
+      "pic": "https://i.pinimg.com/474x/3a/41/ac/3a41aca989d87367c81e47fd973444de.jpg",
+      "email": "dummy11@gmail.com",
+      "password": "gg",
+      "profession": "graphicdesigner",
+      "skills": [
+        "CSS3",
+        "HTML5",
+        "TailWindCSS"
+      ],
+      "rate": 100,
+      "isBooked": false,
+      "id": 11
+    },
+    {
+      "name": "Mark Hannery",
+      "pic": "https://i.pinimg.com/474x/89/41/75/89417545f5ded92bfd8603f3a68c7c76.jpg",
+      "email": "abcd@gmail.com",
+      "password": "gdfg",
+      "profession": "webdeveloper",
+      "skills": [
+        "React.js",
+        "Node.js",
+        "MongoDB"
+      ],
+      "rate": 150,
+      "isBooked": false,
+      "id": 12
     }
-  ],
-  "products": []
+  ]
 }
